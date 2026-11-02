@@ -1,0 +1,15 @@
+# Learning Space Integrator
+
+> learningspaceintegrator.com is the reference site for Learning Space Integration (LSI): the practice of keeping a school district's learning goals intact from planning through design, purchasing, and implementation. A Learning Space Integrator is the firm accountable for that intent across every handoff. The site also offers a free, vendor-neutral procurement toolkit for districts selecting an LSI.
+
+## Core pages
+
+- [What is a Learning Space Integrator?](https://learningspaceintegrator.com/what-is-an-lsi.html): Definition of an LSI, how it differs from a furniture dealer, when to bring one in, and how to measure success.
+- [Why Learning Space Integration matters](https://learningspaceintegrator.com/why-it-matters.html): Where learning goals drop out between planning, design, purchasing, and installation, and how LSI closes those gaps.
+- [How to hire an LSI](https://learningspaceintegrator.com/how-to-hire-an-lsi.html): A four-phase, qualifications-based selection process: prepare, issue an RFQ or RFP, evaluate with a weighted scorecard, and award.
+- [The LSI Toolkit](https://learningspaceintegrator.com/toolkit.html): Free process guide, RFQ template, evaluation scorecard with Excel calculator, and finalist interview guide.
+- [Find an LSI](https://learningspaceintegrator.com/find-an-lsi.html): How to connect with a Learning Space Integrator and the questions to ask any firm.
+
+## Optional
+
+- [Privacy policy](https://learningspaceintegrator.com/privacy.html)
